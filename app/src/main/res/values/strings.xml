@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="purchased">Purchased</string>
+    <string name="editStr">Edit</string>
+    <string name="deleteStr">Remove</string>
+    <string name="dialogTitle">Add new item to your list</string>
+    <string name="empty_name">Add name*</string>
+
+    <string-array name="categories">
+        <item>Food</item>
+        <item>Electronics</item>
+        <item>Clothing</item>
+        <item>Book</item>
+    </string-array>
+</resources>
